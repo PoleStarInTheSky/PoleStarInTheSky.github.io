@@ -1,21 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
-  <entry>
-    <title>博客建立了！</title>
-    <url>/PoleStarInTheSky.github.io/2020/07/19/toHonorTheDevOfBlog/</url>
-    <content><![CDATA[<p>​    忙活了好久，终于搭好了第一个个人博客，欢呼！接下来把自己学习cs的笔记写在博客上，先就算自己的学习笔记吧。</p>
-<p>​    最后测试一下代码高亮。</p>
-<figure class="highlight c"><figcaption><span>hello_world</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">"hello world!"</span>);</span><br><span class="line"><span class="keyword">return</span> ;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight javascript"><figcaption><span>hello_world_another_version</span></figcaption><table><tr><td class="code"><pre><span class="line">alert(<span class="string">"hello world!"</span>);</span><br></pre></td></tr></table></figure>
-
-<p>这个Mac风格的样式真的可以。</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>初体验</tag>
-      </tags>
-  </entry>
 </search>
